@@ -20,4 +20,13 @@ After a brief theoretical introduction, I conducted an analysis based on simulat
    - Mixed-effects models
 5. Simulation study:
    - Balanced/unbalanced, homo/heteroscedastic, independent/dependent scenarios
-  
+
+# Tools
+- R Packages:
+  - outliers (cochran.test())
+  - stats (bartlett.test(), fligner.test(), kruskal.test(), oneway.test(), aov(), friedman.test())
+  - lawstat (levene.test()
+  - onewaytests (ag.test(), welch.test(), james.test())
+  - lme and nlme (mixed-effects models)
+  - generation of simulated datasets (e.g., rnorm(), mvrnorm())
+  - ggplot2 (data manipulation and visualization)
