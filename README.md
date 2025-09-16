@@ -1,0 +1,2 @@
+# Violations-of-ANOVA-assumptions-comparison-with-alternative-methods-through-a-simulation-study-in-R
+My Bachelor’s thesis examined the behavior of ANOVA when its assumptions are violated. Using simulated datasets representing non-ideal conditions, I evaluated the method’s performance and alternative approaches, highlighting the importance of selecting appropriate statistical tools and understanding data structure for interpretable results.
